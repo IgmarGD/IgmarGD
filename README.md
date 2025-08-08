@@ -36,10 +36,27 @@ Soy **Igmar Josías Guzmán Dávila**, un apasionado por la tecnología y el des
 
 ### 📈 Estadísticas
 
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGithub&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuarioDeGithub&theme=tokyonight" />
-</p>
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="40%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 ---
 
@@ -48,7 +65,7 @@ Soy **Igmar Josías Guzmán Dávila**, un apasionado por la tecnología y el des
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/igmar.guzman.39/)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@igmarguzman445?is_from_webapp=1&sender_device=pc)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/igmar_guzman/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](lorenzofull555@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)]()
 
 ---
 
