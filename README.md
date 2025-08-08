@@ -1,6 +1,5 @@
 <h1 align="center">Hola Desarrolladores 👋</h1>
-<div align="center">
-<img src="https://imgur.com/7mHGGl0" alt="👌" width="300" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="7mHGGl0"><a href="https://imgur.com/7mHGGl0">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 <p align="center">✨ Están en el lugar indicado ✨</p>
