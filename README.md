@@ -4,7 +4,7 @@
 </p>
 
 
-<p align="center">✨ Están en el lugar indicado ✨</p>
+<p align="center">✨👾 Están en el lugar indicado 👾✨</p>
 
 ---
 
@@ -45,9 +45,10 @@ Soy **Igmar Josías Guzmán Dávila**, un apasionado por la tecnología y el des
 
 ### 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tuusuario/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/tuusuario/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tuemail@example.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/igmar.guzman.39/)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@igmarguzman445?is_from_webapp=1&sender_device=pc)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/igmar_guzman/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](lorenzofull555@gmail.com)
 
 ---
 
