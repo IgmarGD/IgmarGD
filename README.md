@@ -1,6 +1,6 @@
 <h1 align="center">Hola Desarrolladores 👋</h1>
 <div align="center">
-<img src="https://imgur.com/a/hDrHElM" alt="👌" width="300" />
+<img src="https://imgur.com/7mHGGl0" alt="👌" width="300" />
 
 
 <p align="center">✨ Están en el lugar indicado ✨</p>
