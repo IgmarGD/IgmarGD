@@ -1,5 +1,7 @@
 <h1 align="center">Hola Desarrolladores 👋</h1>
-<blockquote class="imgur-embed-pub" lang="en" data-id="7mHGGl0"><a href="https://imgur.com/7mHGGl0">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<p align="center">
+  <img src="https://i.imgur.com/7mHGGl0.mp4" alt="Bienvenida animada" width="400" />
+</p>
 
 
 <p align="center">✨ Están en el lugar indicado ✨</p>
